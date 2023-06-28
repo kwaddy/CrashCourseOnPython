@@ -24,3 +24,7 @@ def greeting(name):
     print("Welcome, " + name)
 result = greeting("Christine")
 print(result)
+
+def sum(x, y):
+        return(x+y)
+print(sum(sum(1,2), sum(3,4)))
