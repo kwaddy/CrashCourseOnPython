@@ -43,4 +43,4 @@ def checking_input(x):
 def fill_matrix(length_of_binary):
     x = 0
 
-print(checking_input())# Used to check whether the function was working properly
+#print(checking_input())# Used to check whether the function was working properly
